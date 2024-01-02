@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+# Threader3000 - Multi-threader Port Scanner
+# A project by The Mohamed Ragab
+# v1.0.7
+# https://github.com/Mohamed-A-Ragab/Moka-Scan
+# Licensed under GNU GPLv3 Standards.  https://www.gnu.org/licenses/gpl-3.0.en.html
+
 import socket
 import os
 import threading
