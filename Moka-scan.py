@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Threader3000 - Multi-threader Port Scanner
+# Moka-scan - Multi-threader Port Scanner
 # A project by The Mohamed Ragab
 # v1.0.7
 # https://github.com/Mohamed-A-Ragab/Moka-Scan
