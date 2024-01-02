@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # Moka-scan - Multi-threader Port Scanner
 # A project by The Mohamed Ragab
-# v1.0.7
+# v1.0
 # https://github.com/Mohamed-A-Ragab/Moka-Scan
 # Licensed under GNU GPLv3 Standards.  https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -18,6 +18,7 @@ logo = """
  | |\/| |/ _ \ 
  | |  | | (_) |
  |_|  |_|\___/  Scan
+ v1.0
          
 """
 
