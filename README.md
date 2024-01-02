@@ -12,7 +12,13 @@ Pip3 for installation via PyPi repository
 **Install via Git**
 
 ```bash
-// git clone https://github.com/Mohamed-A-Ragab/Moka-Scan #to save the program to your machine, or utilize the download option
+git clone https://github.com/Mohamed-A-Ragab/Moka-Scan #to save the program to your machine, or utilize the download option
+```
+
+Change permissions for the file Moka-scan.py
+
+```bash
+sudo chmod +x Moka-scan.py
 ```
 
 You can add Moka-scan to run from any directory by adding a symbolic link:
