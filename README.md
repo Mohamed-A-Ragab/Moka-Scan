@@ -46,9 +46,7 @@ sudo ln -s $(pwd)/Moka-scan.py /usr/local/bin/Moka-scan
 
 Not as of current.  If you want a tool like that, I suggest [AutoEnum](https://github.com/Gr1mmie/autoenum).
 
-**Will this tool help me pass the OSCP?**
-
-This tool, when used correctly, helped me pass the OSCP exam. The OSCP is all about time management and enumeration. I give you a tool that is quick and conducts good single target scanning.  It's up to you to use it.
+This tool, when used correctly, can help you to pass the OSCP exam. The OSCP is all about time management and enumeration. I give you a tool that is quick and conducts good single target scanning.  It's up to you to use it.
 
 **Can I make pull requests with changes that I think are best for Moka-scan?**
 
